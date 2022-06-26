@@ -17,4 +17,5 @@ Los archivos de este repositorio deben der colocados en la siguiente hubicación
 // # Comentario
 
 El archivo autoexec.cfg es la tradución y personalización del Autoexec de ~ Miro
+
 Link del archivo original: https://pastebin.com/rpuE3PJY
