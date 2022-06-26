@@ -11,9 +11,6 @@ Solo impimprime en la consola mi nombre de usuario en Steam
 
 // # Instalación
 
-La ruta predeterminada de Steam es:
-# C:\Program Files (x86)\Steam
-
 Los archivos de este repositorio deben der colocados en la siguiente hubicación:
 # C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\cfg\
 
