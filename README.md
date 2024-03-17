@@ -1,21 +1,14 @@
 # left4dead2-cfg
-Autoexec
 
-// # Autoexec.cfg
+## Descripción
+Este repositorio contiene archivos de configuración para mejorar la experiencia de juego en Left 4 Dead 2, incluyendo ajustes para competiciones y mejoras en el rendimiento.
 
-Para una configuración competitiva de l4d2 + FPS boost
+## Archivos Incluidos
+- **Autoexec.cfg**: Configuración para una experiencia competitiva en L4D2 y aumento de FPS.
 
-// # Mrpink.cfg
+## Instalación
+1. Descarga el archivo de este repositorio.
+2. Colócalo en la siguiente ubicación: `C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\cfg\`
 
-Solo impimprime en la consola mi nombre de usuario en Steam
-
-// # Instalación
-
-Los archivos de este repositorio deben der colocados en la siguiente hubicación:
-# C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\cfg\
-
-// # Comentario
-
-El archivo autoexec.cfg es la tradución y personalización del Autoexec de ~ Miro
-
-Link del archivo original: https://pastebin.com/rpuE3PJY
+## Comentarios
+El archivo `autoexec.cfg` es una traducción y personalización del autoexec de ~ Miro. Puedes encontrar el archivo original [aquí](https://pastebin.com/rpuE3PJY).
